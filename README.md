@@ -12,7 +12,7 @@ Skills: Flutter/Dart/C/Python/Firebase/
 - 🌱 I’m currently learning Flutter and backend 
 - 👯 I’m looking to collaborate on OpenSource Projects 
 - 🤔 I’m looking for help with Google.com and Youtube.com 
-- 💬 Ask me about I am happy to help 
+- 💬 Ask me about I am happy to help
 - 📫 How to reach me: osoliev408@gmail.com
 
 
