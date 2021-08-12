@@ -1,69 +1,33 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+### Hi there 👋, My name is Oybek
+#### I am Flutter Developer
+![I am Flutter Developer](https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif)
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Oybek</h1>
-<h3 align="center">I'm a passionate Flutter Developer from Uzbekistan.</h3>
+My name is Oybek. My surname is Soliev. I am 20. I was born in 2001 in Fergana. I live in a small town of Tashkent in the Uzbekistan Republic. My address is Chilonzor 32, 27,  Small ring road Street. My phone number is +99899 806-14-24. I am a student. I study Amity University in Tashkent . I am a good student. I do well in all subjects. They say that I am a hard-working person. To tell the truth, all university subjects come easy to me but sometimes I have to work long hours, for example, to do lessons in
+Network Basics or  Financial Accounting, to write a coding or to learn by heart. But my favourite subject is Data Structures Using C. I spend a lot of time on it reading books, to write  a coding etc.  I like reading. I think comics and detective stories are much easier to read but I prefer to read novels - historical or modern. I like music. My musical tastes are different, it depends on my mood. But I think every apple is good in its season. 
+I play the football and volleyball, not seriously but for my soul. Sometimes I like to listen to Turk music.  I don't have much time to watch TV but sometimes I spend an hour or two watching an interesting film or a news programme. In the evening I often read newspapers (our local ones) or magazines. I like fresh air and exercise. I wish I had more time for doing sports. But some aerobics in the morning, a swimming pool twice a week day are of great help. Sport is fun. I have a wide circle of interests. I'm very sociable, so I get on very well with people. I have many friends, most of them are my classmates.  But most of all I like my family. We all are great friends and deeply attached to each other. That's all about me - a person with her good and not very good traits of character, liking this and hating that. But it's interesting for me to live and to open new things.
 
+Skills: Flutter/Dart/C/Python/Firebase/
 
-## 🙋‍♂️ About Me
-
-- 🌱 I’m currently learning **Flutter**
-
-- 👯 I’m looking to collaborate on **OpenSource Projects**
-
-- 📫 How to reach me **osoliev408@gmail.com**
-
-- ⚡ Fun fact **I play football and go to the GYM very often **
-
-## 🚀 Languages and Tools:
-
-<p align="left"> 
-    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
-    <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a> 
-    <a href="https://flutter.dev/" target="_blank"> <img src="https://www.seekpng.com/png/full/945-9454419_nuff-said-show-me-the-code-flutter-bottom.png"/>
-    <a href="https://www.programiz.com/c-programming" target="_blank"> <img src="https://www.kindpng.com/picc/m/403-4039227_c-language-logo-png-transparent-png.png"/> </a> 
-    <a href="https://www.w3schools.com/html/" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/> </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"/> </a>
-      [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][https://www.w3schools.com/css/]
-  </a> 
-</p>
-
-<br/>
-
-<p align="center">
-    <a href="https://github.com/SubhamRaoniar28/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=SubhamRaoniar28&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
-</p>
-
-## 📊 My Github Stats
-
-  <br/>
-    <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Subham Raoniar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=SubhamRaoniar28&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SubhamRaoniar28&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
-  <b>Note:</b> 
+- 🔭 I’m currently working on QuranApp 
+- 🌱 I’m currently learning Flutter and backend 
+- 👯 I’m looking to collaborate on OpenSource Projects 
+- 🤔 I’m looking for help with Google.com and Youtube.com 
+- 💬 Ask me about I am happy to help 
+- 📫 How to reach me: osoliev408@gmail.com 
 
 
-<br/>
-<br/>
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/lordmax777)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/Oybek Soliev)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/oybek.soliev/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@Oybekxxxx4080)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/Oybek Soliev)  
 
-<a href="https://github.com/SubhamRaoniar28/github-readme-activity-graph"><img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=SubhamRaoniar28&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
-<br/>
-<br/>
+[![trophy](https://github-profile-trophy.vercel.app/?username=lordmax777)](https://github.com/ryo-ma/github-profile-trophy)
 
-## Connect with me:
-<p align="left">
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lordmax777)](https://github.com/anuraghazra/github-readme-stats)
 
-<a href = "https://www.linkedin.com/in/subham-raoniar/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/subhamraoniar"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/subhamraoniar/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = "https://www.youtube.com/channel/UC-NXT1lYAOPa3lrgWXqvuHA"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=lordmax777)  
 
-</p>
+![GitHub metrics](https://metrics.lecoq.io/lordmax777)  
 
-## ❤ Views and Followers
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=SubhamRaoniar28">
-</a>
-<a href="https://github.com/SubhamRaoniar28?tab=followers"><img src="https://img.shields.io/github/followers/SubhamRaoniar28?label=Followers&style=social" alt="GitHub Badge"></a>
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=lordmax777)  
+
+![Profile views](https://gpvc.arturio.dev/lordmax777)  
